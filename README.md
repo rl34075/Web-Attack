@@ -4,6 +4,8 @@ Web Application Attack
 
 ## Ataques em Aplicação Web 
 
+Utilizaremos como referência o projeto OWASP Mutillidae: https://securityonline.info/owasp-mutillidae-ii-web-pen-test-practice/
+
 
 ### Exercício 1 - Abusando da aplicação com BurpSuite
 * Abrir o mutillidae:	http://10.10.10.16:8080/mutillidae
